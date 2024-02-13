@@ -1,0 +1,32 @@
+
+
+.about_my_gallery{
+   padding-top: 40px;
+   padding-bottom: 50px;
+   padding-left: 40px;
+   padding-right: 50px;
+}
+
+.about-us{
+   /* border: 1px solid black;*/
+   padding-top: 20px;
+   padding-bottom: 20px;
+   padding-left: 10px;
+   padding-right: 10px;
+}
+
+
+.sky{
+    color: rgb(78, 156, 228);
+}
+
+.about{
+    font-size: 18px;
+    font-style: oblique;
+    line-height: 25px;
+}
+
+
+.insta-link{
+    color: rgb(126, 147, 161);
+}
